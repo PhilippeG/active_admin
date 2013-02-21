@@ -1,5 +1,4 @@
 require 'inherited_resources'
-require 'inherited_resources/responder'
 require 'active_admin/base_controller/menu'
 
 module ActiveAdmin
